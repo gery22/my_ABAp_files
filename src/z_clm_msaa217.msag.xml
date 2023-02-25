@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z_CLM_MSAA217</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>El campo no admite valores númericos</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>El campo es obligatorio</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>El empleado se ha dado de alta correctamente</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>El empleado NO se ha dado de alta</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>El empleado no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Los datos del empleado se han actualizado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Los datos del empleado NO se han actualizado.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>El empleado se ha dado de baja</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>El empleado NO se ha dado de baja</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>Los datos del empleado se han modificado/insertado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>Los datos del empleado NO se han modificado/insertado</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>&amp; asientos disponibles</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_CLM_MSAA217</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Airline name: &amp;</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

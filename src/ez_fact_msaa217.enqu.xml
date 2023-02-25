@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENQU" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD25V>
+    <VIEWNAME>EZ_FACT_MSAA217</VIEWNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <AGGTYPE>E</AGGTYPE>
+    <ROOTTAB>ZFACT_MSAA217</ROOTTAB>
+    <DDTEXT>lock object</DDTEXT>
+    <GLOBALFLAG>X</GLOBALFLAG>
+   </DD25V>
+   <DD26E_TABLE>
+    <DD26E>
+     <VIEWNAME>EZ_FACT_MSAA217</VIEWNAME>
+     <TABNAME>ZFACT_MSAA217</TABNAME>
+     <TABPOS>0001</TABPOS>
+     <FORTABNAME>ZFACT_MSAA217</FORTABNAME>
+     <ENQMODE>E</ENQMODE>
+    </DD26E>
+   </DD26E_TABLE>
+   <DD27P_TABLE>
+    <DD27P>
+     <VIEWNAME>EZ_FACT_MSAA217</VIEWNAME>
+     <OBJPOS>0001</OBJPOS>
+     <VIEWFIELD>MANDT</VIEWFIELD>
+     <TABNAME>ZFACT_MSAA217</TABNAME>
+     <FIELDNAME>MANDT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ENQMODE>E</ENQMODE>
+    </DD27P>
+    <DD27P>
+     <VIEWNAME>EZ_FACT_MSAA217</VIEWNAME>
+     <OBJPOS>0002</OBJPOS>
+     <VIEWFIELD>FACTURA</VIEWFIELD>
+     <TABNAME>ZFACT_MSAA217</TABNAME>
+     <FIELDNAME>FACTURA</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <ENQMODE>E</ENQMODE>
+    </DD27P>
+   </DD27P_TABLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
